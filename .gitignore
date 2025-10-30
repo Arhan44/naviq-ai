@@ -1,6 +1,5 @@
 ﻿node_modules
-/.next
-/.env*
-node_modules
-/.next
+.next
+dist
 .env*
+__pycache__
